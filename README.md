@@ -71,8 +71,8 @@ Para rodar, rode o seguinte comando dentro da pasta ***./server***
 ## Autores
 
 - [@João Paulo](https://github.com/goldennZ)
-- [@Enrico Farina](https://github.com/goldennZ)
-- [@Bruno Fontolan](https://github.com/goldennZ)
-- [@Gustavo de Campos](https://github.com/goldennZ)
-- [@Vinicius Torres ](https://github.com/goldennZ)
+- [@Enrico Farina](https://github.com/Enrico-Farina)
+- [@Bruno Fontolan](https://github.com/Brunoalves10)
+- [@Gustavo de Campos](https://github.com/gugacs123)
+- [@Vinicius Torres ](https://github.com/VinniCard)
 
